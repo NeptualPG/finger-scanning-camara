@@ -14,6 +14,6 @@ Press `Q` in the camera window to exit.
 
 - `src/main.py` - application entry point.
 - `src/finger_counter.py` - coordinates the camera, tracker, and UI.
-- `src/camera.py` - camera setup, mirroring, and the dark harmony filter.
+- `src/camera.py` - camera setup, mirroring, and the punk CRT/VHS filter.
 - `src/hand_tracking.py` - MediaPipe setup, hand analysis, and landmark drawing.
-- `src/ui.py` - styled text, status panel, hand counts, and exit hint.
+- `src/ui.py` - neon stencil text, HUD panel, paint drips, and punk decorators.
